@@ -20,9 +20,9 @@
             <version>4.1.0</version>
         </dependency>
         <dependency>
-            <groupId>com.github.sunghyuk</groupId>
+            <groupId>com.github.fzakaria</groupId>
             <artifactId>overwatch-client</artifactId>
-            <version>275c91a</version>
+            <version>50d8ae6</version>
         </dependency>
         <dependency>
             <groupId>io.dropwizard.metrics</groupId>

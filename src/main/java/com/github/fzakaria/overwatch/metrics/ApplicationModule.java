@@ -26,7 +26,6 @@ public class ApplicationModule extends AbstractModule {
     public OverwatchClient overwatchClient() {
         return new OverwatchClient.Builder()
                 .platform("psn")
-                .region("us")
                 .locale(new Locale("en", "US"))
                 .build();
     }
