@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.github.fzakaria</groupId>
             <artifactId>overwatch-client</artifactId>
-            <version>d44790d</version>
+            <version>fefb436</version>
         </dependency>
         <dependency>
             <groupId>io.dropwizard.metrics</groupId>
