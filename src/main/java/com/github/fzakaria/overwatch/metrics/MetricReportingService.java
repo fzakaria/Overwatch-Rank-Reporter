@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MetricReportingService extends AbstractIdleService {
 
-    private final static Graphite GRAPHITE = new Graphite(new InetSocketAddress("54.89.101.217", 2003));
+    private final static Graphite GRAPHITE = new Graphite(new InetSocketAddress("localhost", 2003));
 
     private final GraphiteReporter reporter;
 
